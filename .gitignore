@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/1087/.vs/1087/v16
+/.vs
+/1087/1087/Debug
+/1167/.vs/1167/v16
+/1167/1167/Debug
+/1472/Triangulos/.vs/Triangulos/v16
+/1472/Triangulos/Debug
+/1472/Triangulos/Triangulos/Debug
+/1578/1578/.vs/1578/v16
+/1578/1578/Debug
+/Debug
+/1167/Debug
+/1087/Debug
